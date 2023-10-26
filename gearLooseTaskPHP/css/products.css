@@ -1,0 +1,16 @@
+
+.product {
+    height:100%;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-top:5%;
+
+}
+
+#head{
+    width: 100%;
+    margin-top: auto;
+    background:rgba(0, 0, 0, 0.3);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
